@@ -1,5 +1,5 @@
-# Thomas Lim - itsthomaslim/behindhiscam
-Hey there! I am Thomas Lim, also known by my real name, Ariston Lorenzo.
+# 4tl0renz0
+Hey there! I am Ariston Lorenzo.
 
 I am the lead of the Inferno kernel which is a custom kernel for Echo, previously known as Hydra.
 I cofounded Null with best-friend, [Levi Cowan](https://github.com/FiReLScar).
